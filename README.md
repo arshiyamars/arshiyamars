@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **linux,security,programing**
 
-- 💬 Ask me about **python ,java script , linux**
+- 💬 Ask me about **python ,javascript , linux**
 
 - ⚡ Fun fact **we living in matrix**
 
