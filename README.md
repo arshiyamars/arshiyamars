@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" with="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGJvY3RseXkwaHh2ejZja2NjMHQ2enljbjBhNmZ0NzNkbWthczVqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4knozU8q9AXvpod9qy/giphy.gif"  />
+  <img height="200"  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGJvY3RseXkwaHh2ejZja2NjMHQ2enljbjBhNmZ0NzNkbWthczVqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4knozU8q9AXvpod9qy/giphy.gif"  />
 </div>
 
 ###
@@ -21,7 +21,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/arshiya-merrikh" target="_blank">
+  <a href="[https://www.linkedin.com/in/arshiya-merrikh](https://www.linkedin.com/in/arshiya-merrikh-0a418227a/)" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
